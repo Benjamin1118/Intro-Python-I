@@ -14,17 +14,11 @@ y = []
 
 print (y)
 
-y = [i for i in range(6)]
-print(y)
-
 # Write a list comprehension to produce the cubes of the numbers 0-9:
 # [0, 1, 8, 27, 64, 125, 216, 343, 512, 729]
 
 y = []
 
-print(y)
-
-y = [i*i for i in range(10)]
 print(y)
 
 # Write a list comprehension to produce the uppercase version of all the
@@ -34,12 +28,6 @@ a = ["foo", "bar", "baz"]
 
 y = []
 
-print(y)
-
-a = ["foo", "bar", "baz"]
-y =[]
-for a in a:
-    y.append(a.upper())
 print(y)
 
 # Use a list comprehension to create a list containing only the _even_ elements

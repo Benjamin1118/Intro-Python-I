@@ -5,8 +5,6 @@
 # the sum. This is what you'd consider to be a regular, normal function.
 
 # YOUR CODE HERE
-def f1(a,b):
-    return (a+b)
 
 print(f1(1, 2))
 
